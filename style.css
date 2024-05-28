@@ -1,0 +1,38 @@
+body{background-color: rgb(245, 187, 245);}
+.p1{text-align: center;
+font-size: 200%;
+color: rgb(245, 32, 149);
+border-color: black;
+border-width: 6px;
+border-style: groove;
+margin-left: 10%;
+margin-right: 10%;
+padding-top: 1%;
+padding-bottom: 1%;}
+
+.p2{text-align: center;
+    font-size: 150%;
+    color: rgb(110, 1, 101);
+    border-color: black;
+    border-width: 6px;
+    border-style: ridge;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.p3{text-align: center;
+    font-size: 250%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 6px;
+    border-style: ridge;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 1%;
+    padding-bottom: ]1%;
+background-color: rgb(245, 187, 245);}
+ .p4 { text-align: center;
+    font-size: 190%;
+    color:  rgb(245, 187, 245);}
+ 
